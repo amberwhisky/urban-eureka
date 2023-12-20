@@ -1,6 +1,5 @@
 # Domain Keywords
 
-DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,ipfs
 DOMAIN-KEYWORD,zlibrary
 
@@ -42,7 +41,6 @@ DOMAIN-SUFFIX,onionicons.com
 DOMAIN-SUFFIX,tvtime.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,tvtime.com
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,scientificmagazines.top
 DOMAIN-SUFFIX,usafiles.net
 DOMAIN-SUFFIX,v2ex.com
