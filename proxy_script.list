@@ -3,25 +3,14 @@
 DOMAIN-KEYWORD,ipfs
 DOMAIN-KEYWORD,zlibrary
 
-# Notion Rules
+# Notion Additional Rules
 
-DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,loggly.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,amazonaws.com
-
-# Z-library
-
-DOMAIN-SUFFIX,zlib.org
-DOMAIN-SUFFIX,zlibcdn2.com
-DOMAIN-SUFFIX,zlibcdn.com
-DOMAIN-SUFFIX,bok.cc
-DOMAIN-SUFFIX,book4you.org
-DOMAIN-SUFFIX,1lib.domains
-DOMAIN-SUFFIX,1lib.tw
 
 #chatGPT
 
@@ -33,20 +22,20 @@ DOMAIN-SUFFIX,flares.ai
 
 # Others
 
+DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,ddrk.me
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,accuweather.com
-DOMAIN-SUFFIX,microsoftteams.com
-DOMAIN-SUFFIX,successwithteams.com
-DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,tozelabs.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,onionicons.com
-DOMAIN-SUFFIX,tvtime.com
 DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,tvtime.com
+DOMAIN-SUFFIX,microsoftteams.com
+DOMAIN-SUFFIX,onionicons.com
 DOMAIN-SUFFIX,scientificmagazines.top
+DOMAIN-SUFFIX,successwithteams.com
+DOMAIN-SUFFIX,tozelabs.com
+DOMAIN-SUFFIX,tvtime.com
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,tvtime.com
 DOMAIN-SUFFIX,usafiles.net
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,singlelogin.org
