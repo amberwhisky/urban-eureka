@@ -1,3 +1,21 @@
+#GEOIP
+
+geoip,us
+geoip,au
+geoip,ar
+geoip,br
+geoip,ca
+geoip,de
+geoip,fi
+geoip,gb
+geoip,gr
+geoip,ru
+geoip,sg
+geoip,th
+geoip,tw
+geoip,uz
+
+
 # Domain Keywords
 
 DOMAIN-KEYWORD,ipfs
