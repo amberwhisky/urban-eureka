@@ -6,12 +6,12 @@ geoip,cn
 DOMAIN-KEYWORD,555
 DOMAIN-KEYWORD,ffzy
 # DOMAIN-KEYWORD,ucass
-DOMAIN-KEYWORD,apple
+# DOMAIN-KEYWORD,apple
 
 #Suffixs
 DOMAIN-SUFFIX,pdawiki.com
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,weread.com
-DOMAIN-SUFFIX,qq.com
+# DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,ctrip.com
