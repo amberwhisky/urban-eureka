@@ -21,6 +21,13 @@ geoip,uz
 DOMAIN-KEYWORD,ipfs
 DOMAIN-KEYWORD,zlibrary
 
+# Sockboom
+
+DOMAIN-SUFFIX,sockboom.id
+DOMAIN-SUFFIX,sockboom.buzz
+DOMAIN-SUFFIX,sockboom.boo
+DOMAIN-SUFFIX,sockboom.online
+
 # Notion Additional Rules
 
 DOMAIN-SUFFIX,loggly.com
@@ -68,7 +75,6 @@ DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,scientificmagazines.top
-DOMAIN-SUFFIX,sockboom.id
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,singlelogin.org
 DOMAIN-SUFFIX,successwithteams.com
