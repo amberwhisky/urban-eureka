@@ -3,8 +3,7 @@
 geoip,cn
 
 # Keywords
-DOMAIN-KEYWORD,555
-DOMAIN-KEYWORD,ffzy
+
 # DOMAIN-KEYWORD,ucass
 DOMAIN-KEYWORD,apple
 
