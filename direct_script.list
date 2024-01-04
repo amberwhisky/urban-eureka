@@ -6,6 +6,7 @@ geoip,cn
 
 # DOMAIN-KEYWORD,ucass
 DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,czzy
 
 #Suffixs
 DOMAIN-SUFFIX,pdawiki.com
