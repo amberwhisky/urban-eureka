@@ -20,13 +20,7 @@ geoip,uz
 
 DOMAIN-KEYWORD,ipfs
 DOMAIN-KEYWORD,zlibrary
-
-# Sockboom
-
-DOMAIN-SUFFIX,sockboom.id
-DOMAIN-SUFFIX,sockboom.buzz
-DOMAIN-SUFFIX,sockboom.boo
-DOMAIN-SUFFIX,sockboom.online
+DOMAIN-KEYWORD,sockboom
 
 # Notion Additional Rules
 
