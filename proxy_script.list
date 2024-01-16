@@ -41,7 +41,9 @@ DOMAIN-SUFFIX,flares.ai
 
 # Others
 
+DOMAIN-SUFFIX,404media.co
 DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,artnet.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,ddrk.me
@@ -49,6 +51,7 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,guardianapis.com
 DOMAIN-SUFFIX,greasyfork.org
@@ -66,15 +69,20 @@ DOMAIN-SUFFIX,moyu.im
 DOMAIN-SUFFIX,netdnacdn.com
 DOMAIN-SUFFIX,onionicons.com
 DOMAIN-SUFFIX,pangzitv.com
+DOMAIN-SUFFIX,petapixel.com
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,propublica.org
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,scientificmagazines.top
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,singlelogin.org
 DOMAIN-SUFFIX,successwithteams.com
+DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,theparisreview.org
+DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tozelabs.com
 DOMAIN-SUFFIX,trackseries.tv
