@@ -96,7 +96,7 @@ DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,scientificmagazines.top
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,singlelogin.org
-# DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.re
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,themoviedb.org
