@@ -17,11 +17,6 @@ geoip,us
 # geoip,uz
 
 
-# Domain Keywords
-
-DOMAIN-KEYWORD,ipfs
-DOMAIN-KEYWORD,zlibrary
-DOMAIN-KEYWORD,sockboom
 
 # Notion Additional Rules
 
@@ -51,7 +46,8 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,coze.com
-DOMAIN-SUFFIX,ddrk.me
+# DOMAIN-SUFFIX,ddrk.me
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
@@ -73,6 +69,7 @@ DOMAIN-SUFFIX,ltrbxd.com
 DOMAIN-SUFFIX,ltss.cc
 DOMAIN-SUFFIX,mactorrentdownload.net
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.co.nz
@@ -85,12 +82,13 @@ DOMAIN-SUFFIX,netdnacdn.com
 DOMAIN-SUFFIX,newslookup.com
 DOMAIN-SUFFIX,okyrin.com
 DOMAIN-SUFFIX,onionicons.com
-DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pangzitv.com
 DOMAIN-SUFFIX,parr-global.com
 DOMAIN-SUFFIX,petapixel.com
+DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,podbay.fm
 DOMAIN-SUFFIX,propublica.org
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,reuters.com
