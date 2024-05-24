@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,freegpt.one
 DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN-SUFFIX,flares.ai
 
+# Keywords
+
+DOMAIN-KEYWORD,epicgames
 
 # Others
 
@@ -60,6 +63,7 @@ DOMAIN-SUFFIX,fwcloud.xyz
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,guardianapis.com
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,house.gov
 DOMAIN-SUFFIX,instantlogosearch.com
 DOMAIN-SUFFIX,imgur.com
@@ -68,6 +72,7 @@ DOMAIN-SUFFIX,leiting.io
 DOMAIN-SUFFIX,ltrbxd.com
 DOMAIN-SUFFIX,ltss.cc
 DOMAIN-SUFFIX,mactorrentdownload.net
+DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.io
