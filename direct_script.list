@@ -5,13 +5,14 @@ geoip,cn
 # Keywords
 
 DOMAIN-KEYWORD,youku
-DOMAIN-KEYWORD,epicgames
+# DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,czzy
 DOMAIN-KEYWORD,megadb
 DOMAIN-KEYWORD,gofile
 DOMAIN-KEYWORD,siemens
 DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,kuaikan
 
 #Suffixs
 DOMAIN-SUFFIX,253874.net
