@@ -1,6 +1,6 @@
 #GEOIP
 
-geoip,us
+# geoip,us
 
 # geoip,au
 # geoip,ar
