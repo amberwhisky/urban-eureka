@@ -1,22 +1,3 @@
-# GEOIP
-
-# geoip,us
-# geoip,au
-# geoip,ar
-# geoip,br
-# geoip,ca
-# geoip,de
-# geoip,fi
-# geoip,gb
-# geoip,gr
-# geoip,ru
-# geoip,sg
-# geoip,th
-# geoip,tw
-# geoip,uz
-
-
-
 # Notion Additional Rules
 
 DOMAIN-SUFFIX,loggly.com
@@ -124,6 +105,22 @@ DOMAIN-SUFFIX,xn4gq62f52gdss.com
 DOMAIN-SUFFIX,yande.re
 
 
+# GEOIP
+
+# geoip,us
+# geoip,au
+# geoip,ar
+# geoip,br
+# geoip,ca
+# geoip,de
+# geoip,fi
+# geoip,gb
+# geoip,gr
+# geoip,ru
+# geoip,sg
+# geoip,th
+# geoip,tw
+# geoip,uz
 
 
 
