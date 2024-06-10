@@ -107,7 +107,7 @@ DOMAIN-SUFFIX,yande.re
 
 # GEOIP
 
-# geoip,us
+ geoip,us
 # geoip,au
 # geoip,ar
 # geoip,br
