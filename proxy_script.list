@@ -18,14 +18,17 @@ DOMAIN-SUFFIX,flares.ai
 
 DOMAIN-KEYWORD,epicgames
 
+
 # Others
 
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,404media.co
 DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,artnet.com
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,coze.com
@@ -47,6 +50,7 @@ DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,house.gov
 DOMAIN-SUFFIX,instantlogosearch.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,letterboxd.com
 DOMAIN-SUFFIX,leiting.io
 DOMAIN-SUFFIX,ltrbxd.com
@@ -65,6 +69,7 @@ DOMAIN-SUFFIX,mox.moe
 DOMAIN-SUFFIX,moyu.im
 DOMAIN-SUFFIX,netdnacdn.com
 DOMAIN-SUFFIX,newslookup.com
+DOMAIN-SUFFIX,nrzr.li
 DOMAIN-SUFFIX,okyrin.com
 DOMAIN-SUFFIX,onionicons.com
 DOMAIN-SUFFIX,pangzitv.com
@@ -77,10 +82,12 @@ DOMAIN-SUFFIX,podbay.fm
 DOMAIN-SUFFIX,propublica.org
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,routledge.com
 DOMAIN-SUFFIX,scientificmagazines.top
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,singlelogin.org
 DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,ssrn.com
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,themoviedb.org
