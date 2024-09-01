@@ -33,16 +33,20 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,coze.com
 # DOMAIN-SUFFIX,ddrk.me
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,dl.macked.homes
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,www.duyaoss.com
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,dyls.app
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,feidu.word
+DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,fwcloud.xyz
 DOMAIN-SUFFIX,goodreads.com
@@ -52,11 +56,15 @@ DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,house.gov
 DOMAIN-SUFFIX,instantlogosearch.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ivonblog.com
+DOMAIN-SUFFIX,imacso.com
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,letterboxd.com
 DOMAIN-SUFFIX,leiting.io
 DOMAIN-SUFFIX,ltrbxd.com
 DOMAIN-SUFFIX,ltss.cc
+DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,mactorrentdownload.net
 DOMAIN-SUFFIX,macosicons.com
 DOMAIN-SUFFIX,manhuagui.com
@@ -71,6 +79,7 @@ DOMAIN-SUFFIX,mox.moe
 DOMAIN-SUFFIX,moyu.im
 DOMAIN-SUFFIX,netdnacdn.com
 DOMAIN-SUFFIX,newslookup.com
+DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nrzr.li
 DOMAIN-SUFFIX,okyrin.com
 DOMAIN-SUFFIX,onionicons.com
@@ -86,6 +95,8 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,routledge.com
 DOMAIN-SUFFIX,scientificmagazines.top
+DOMAIN-SUFFIX,sex-positions.online
+DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,singlelogin.org
 DOMAIN-SUFFIX,singlelogin.re
@@ -112,6 +123,7 @@ DOMAIN-SUFFIX,xfss.ltd
 DOMAIN-SUFFIX,xdadevelopers.com
 DOMAIN-SUFFIX,xn4gq62f52gdss.com
 DOMAIN-SUFFIX,yande.re
+DOMAIN-SUFFIX,zsolt.blog
 
 
 # GEOIP
