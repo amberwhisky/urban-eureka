@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,flares.ai
 
 # Keywords
 
-DOMAIN-KEYWORD,epicgames
+# DOMAIN-KEYWORD,epicgames
 DOMAIN-KEYWORD,zlib
 DOMAIN-KEYWORD,mojie
 DOMAIN-KEYWORD,reddit
