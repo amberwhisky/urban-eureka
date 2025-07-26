@@ -20,16 +20,21 @@ DOMAIN-SUFFIX,flares.ai
 DOMAIN-KEYWORD,zlib
 DOMAIN-KEYWORD,mojie
 DOMAIN-KEYWORD,reddit
+DOMAIN-KEYWORD,missav
 
 
 # Others
 
+DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,404media.co
+DOMAIN-SUFFIX,51cg1.com
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,acgndog.com
+DOMAIN-SUFFIX,algolianet.com
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,anytype.io
+DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,artnet.com
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,bit.ly
@@ -37,11 +42,14 @@ DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,boylove.cc
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,cartoon18.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copymanga.tv
+DOMAIN-SUFFIX,cornss.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,dgaqp.com
 DOMAIN-SUFFIX,didamanhua.com
 DOMAIN-SUFFIX,dl.macked.homes
 DOMAIN-SUFFIX,duckduckgo.com
@@ -54,7 +62,9 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,feidu.word
+DOMAIN-SUFFIX,folivora.ai
 DOMAIN-SUFFIX,framerusercontent.com
+DOMAIN-SUFFIX,freemagazines.top
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,fwcloud.xyz
 DOMAIN-SUFFIX,gamer.com.tw
@@ -64,6 +74,7 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hamreus.com
+DOMAIN-SUFFIX,heptabase.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,house.gov
 DOMAIN-SUFFIX,icemenubar.app
@@ -74,7 +85,8 @@ DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,imacso.com
 DOMAIN-SUFFIX,jable.tv
-# DOMAIN-SUFFIX,kox.moe
+DOMAIN-SUFFIX,jiao.se
+DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,letterboxd.com
 DOMAIN-SUFFIX,leiting.io
 DOMAIN-SUFFIX,ltrbxd.com
@@ -82,13 +94,16 @@ DOMAIN-SUFFIX,ltss.cc
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,mactorrentdownload.net
 DOMAIN-SUFFIX,macosicons.com
+DOMAIN-SUFFIX,magazinelib.com
 DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,microsoftteams.com
 DOMAIN-SUFFIX,missav.com
@@ -101,10 +116,13 @@ DOMAIN-SUFFIX,newslookup.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nrzr.li
+DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,okyrin.com
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,onionicons.com
 DOMAIN-SUFFIX,pangzitv.com
 DOMAIN-SUFFIX,parr-global.com
+DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,petapixel.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pincong.rocks
@@ -122,10 +140,14 @@ DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,singlelogin.org
 DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,ssrn.com
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,steamdeckhq.com
 DOMAIN-SUFFIX,successwithteams.com
+DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,telegraph.co.uk
+DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,theparisreview.org
 DOMAIN-SUFFIX,theverge.com
@@ -133,6 +155,8 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tozelabs.com
 DOMAIN-SUFFIX,trackseries.tv
 DOMAIN-SUFFIX,tvtime.com
+DOMAIN-SUFFIX,umate.me
+DOMAIN-SUFFIX,unesco.org
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,usafiles.net
