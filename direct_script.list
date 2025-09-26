@@ -6,7 +6,7 @@ geoip,cn
 
 DOMAIN-KEYWORD,youku
 # DOMAIN-KEYWORD,epicgames
-DOMAIN-KEYWORD,apple
+# DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,czzy
 DOMAIN-KEYWORD,megadb
 DOMAIN-KEYWORD,gofile
